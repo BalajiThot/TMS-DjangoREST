@@ -14,7 +14,6 @@ The Task Management System is a backend API built with Django REST Framework to 
   - [Role Endpoints](#role-endpoints)
   - [Project Endpoints](#project-endpoints)
   - [Task Endpoints](#task-endpoints)
-  - [Comment Endpoints](#comment-endpoints)
 - [Examples](#examples)
 
 ---
